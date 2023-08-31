@@ -6,7 +6,7 @@
 
 🌐 [View the live site](https://spirit-101.github.io/multi-step-form/)
 
-🧠 [Check out the solution](https://www.frontendmentor.io/solutions/rest-countries-api-application-SoA2S7EIqd)
+🧠 [Check out the solution](https://www.frontendmentor.io/solutions/multistep-form-rVuNbw7ATK)
 
 📝 [View the challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
 
