@@ -166,7 +166,7 @@ planContainer.addEventListener("click", function (e) {
 addonsContainer.addEventListener("click", function (e) {
   const addonBox = e.target.closest(".step__addons-box");
   if (!addonBox) return;
-  const checkbox = addonBox.querySelector("#check");
+  const checkbox = addonBox.querySelector(".check");
 
   if (e.target === checkbox) {
     addonBox.classList.toggle("addon--active");
