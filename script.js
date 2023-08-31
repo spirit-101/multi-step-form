@@ -10,7 +10,7 @@ const plans = document.querySelectorAll(".step__plans-plan");
 
 const toggle = document.querySelector("#toggle");
 
-const checkbox = document.querySelectorAll("#check");
+const checkbox = document.querySelectorAll(".check");
 
 const addonsContainer = document.querySelector(".step__addons");
 const addon = document.querySelectorAll(".step__addons-box");
